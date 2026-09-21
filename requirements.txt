@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+imageio[ffmpeg]
+xformers
+safetensors
+omegaconf
+moviepy==1.0.3
+scipy
+soundfile
+streamlit
